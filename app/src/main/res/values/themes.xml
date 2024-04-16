@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Idont" parent="Theme.Material3.DayNight">
-        <item name="colorPrimaryDark">@color/orangeStart</item>
+    <style name="Base.Theme.Idont" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">@drawable/gradient_drawable</item>
     </style>
 
     <style name="Theme.Idont" parent="Base.Theme.Idont" />

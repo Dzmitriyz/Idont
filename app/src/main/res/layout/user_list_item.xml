@@ -7,7 +7,6 @@
     <androidx.cardview.widget.CardView
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:background="@drawable/gradient_message"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -17,7 +16,8 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:background="@drawable/gradient_message">
 
             <TextView
                 android:id="@+id/UserName"
@@ -26,7 +26,9 @@
                 android:layout_marginTop="5dp"
                 android:padding="5dp"
                 android:text="TextView"
-                android:textColor="#000000"  />
+                android:textSize="14sp"
+                android:textColor="#000000"
+                android:textStyle="italic"/>
 
             <TextView
                 android:id="@+id/message"
@@ -34,7 +36,8 @@
                 android:layout_height="wrap_content"
                 android:padding="5dp"
                 android:text="TextView"
-                android:textSize="12sp" />
+                android:textSize="16sp"
+                android:textStyle="bold"/>
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 </androidx.constraintlayout.widget.ConstraintLayout>
