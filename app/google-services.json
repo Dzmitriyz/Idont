@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922739827529",
+    "firebase_url": "https://justsportdz-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "justsportdz",
+    "storage_bucket": "justsportdz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922739827529:android:137630c92cbfc818ca7098",
+        "android_client_info": {
+          "package_name": "com.example.idont"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922739827529-q20svpe95apmn4pjk1p9fs6d5c0df7j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.idont",
+            "certificate_hash": "c604638c81667db3e4936737136a094b6d666451"
+          }
+        },
+        {
+          "client_id": "922739827529-urgdbpp8kun1h8cvkg469p5mnhl7cdmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpnRKYh4_qeSj7ZVn6Fze5HOg_QVuf0Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922739827529-urgdbpp8kun1h8cvkg469p5mnhl7cdmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

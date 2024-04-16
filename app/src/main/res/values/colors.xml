@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orangeStart">#FBA541</color>
+    <color name="orangeEnd">#EE4E67</color>
+    <color name="whatsapp_up">#008069</color>
+    <color name="main_back">#EAE6DF</color>
+    <color name="text_back">#FFFFFF</color>
+    <color name="text_bk_start">#F1765A</color>
+    <color name="text_bk_end">#FBB248</color>
+    <color name="send_button_color">#F7B251</color>
+    <color name="bk_send_message">#F59B47</color>
+</resources>
